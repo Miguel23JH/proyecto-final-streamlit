@@ -70,41 +70,17 @@ with st.sidebar:
 
 if seccion == "Home":
     st.title("App Analizadora de Datasets con Streamlit")
-    st.subheader("Exploracion y Visualizacion de Datos con Python")
     st.markdown("---")
 
     col1, col2 = st.columns([2, 1])
 
     with col1:
         st.markdown("""
-        ### Objetivo del Proyecto
-        Esta aplicacion permite cargar, validar, procesar y visualizar datos de manera
-        dinamica. Esta disenada para realizar analisis exploratorio de datos (EDA) sobre
-        el dataset de salud mental en adolescentes, integrando graficos interactivos y
-        estadisticas descriptivas.
-
         ### Autor
-        **Miguel Angel** - Diploma Business Analyst  
-        Curso: Exploracion y Visualizacion de Datos con Python  
-        Institucion: DMC Institute - 2025
-
-        ### Nota de Uso Responsable
-        Los resultados presentados son exploratorios y no reemplazan validacion tecnica
-        o profesional. El analisis de salud mental adolescente no debe interpretarse como
-        diagnostico clinico.
+        **Miguel Angel Jimenez Huamani - 75447465** 
+  
         """)
 
-    with col2:
-        st.info(
-            "Tecnologias utilizadas:\n\n"
-            "- Python 3.x\n"
-            "- Pandas\n"
-            "- Streamlit\n"
-            "- Plotly\n"
-            "- Matplotlib\n"
-            "- Seaborn\n"
-            "- GitHub"
-        )
 
     st.markdown("---")
     st.subheader("Dataset disponible")
