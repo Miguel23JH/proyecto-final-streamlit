@@ -8,6 +8,6 @@ Miguel Angel Jimenez Huamani
 Aplicación interactiva construida en Python con Streamlit para cargar, validar, procesar y visualizar datos del dataset de  salud mental en adolescentes.
 
 ## Dataset Utilizado
-**Teen_Mental_Health_Dataset.csv** — 1,200 filas · 13 columnas  
+**Teen_Mental_Health_Dataset.csv** 
   Hábitos digitales, sueño, actividad física, interacción social y bienestar en adolescentes.
 
